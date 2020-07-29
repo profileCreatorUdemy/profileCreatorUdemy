@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on software projects
 
-![Etty Fidele](https://github.com/profileCreatorUdemy/profileCreatorUdemy/blob/master/images/etty-fidele-VNYCIbZju0o-unsplash.jpg?raw=true)
+[![Etty Fidele](https://github.com/profileCreatorUdemy/profileCreatorUdemy/blob/master/images/etty-fidele-VNYCIbZju0o-unsplash.jpg?raw=true)](https://unsplash.com/photos/VNYCIbZju0o)
 
 💬 Ask me about any front end application development using javascript
 
@@ -33,4 +33,7 @@ Image Uploading Template:
 
 URL Uploading Template:
 [alt text](url)
+
+URL with Image Template:
+[![Alt Text](path of the image here)](url)
 -->

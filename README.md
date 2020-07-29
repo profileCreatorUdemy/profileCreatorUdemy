@@ -8,7 +8,7 @@
 
 👯 I’m looking to collaborate on open source github projects and available for any open job opportunities within India
 
-📫 How to reach me: narayanannarayanan@narayanan.com
+📫 How to reach me: [Udemy](https://www.udemy.com/user/narayanan-palani/)
 
 ⚡ Fun fact: I like to sleep a lot :)
 
@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Image Uploading template:
+Image Uploading Template:
 ![alt text](https://github.com/<userName>/<projectName>/blob/master/images/<filename>?raw=true)
+
+URL Uploading Template:
+[alt text](url)
 -->

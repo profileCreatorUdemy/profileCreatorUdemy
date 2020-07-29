@@ -2,6 +2,8 @@
 
 🔭 I’m currently working on software projects
 
+![Etty Fidele](https://github.com/profileCreatorUdemy/profileCreatorUdemy/blob/master/images/etty-fidele-VNYCIbZju0o-unsplash.jpg?raw=true)
+
 💬 Ask me about any front end application development using javascript
 
 👯 I’m looking to collaborate on open source github projects and available for any open job opportunities within India
@@ -25,4 +27,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Image Uploading template:
+![alt text](https://github.com/<userName>/<projectName>/blob/master/images/<filename>?raw=true)
 -->

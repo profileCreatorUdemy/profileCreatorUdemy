@@ -15,6 +15,14 @@
 - *Implemented_______ specific strength or experience* that you have that aligns directly with target customers – or the specific role you’re interested.
 - *Accelerated________ (if you need this) is a great spot* to spell out significant success story of your project or work completion in the past
 
+# AREAS OF EXPERTISE
+
+Front End Development (Example) | Test Automation (Example)
+------------ | -------------
+Skill/Attribute Goes Here cell 1 | Skill/Attribute Goes Here cell 2
+Skill/Attribute Goes Here column 1 | Skill/Attribute Goes Here column 2
+ 
+
 
 💬 Ask me about any front end application development using javascript
 

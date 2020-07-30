@@ -57,6 +57,19 @@ Honors, Activities, Special Projects, etc. can go here
 ### Name of University, City, ST
 Honors, Activities, Special Projects, etc. can go here
 
+# CERTIFICATION
+## Name of Certificate, Major
+Name of Cert Provider, Licenses
+
+## Name of Certificate, Major
+Name of Cert Provider, Licenses
+
+## Name of Certificate, Major
+Name of Cert Provider, Licenses
+
+## Name of Certificate, Major
+Name of Cert Provider, Licenses
+
 
 💬 Ask me about any front end application development using javascript
 

@@ -22,6 +22,28 @@ Front End Development (Example) | Test Automation (Example)
 Skill/Attribute Goes Here cell 1 | Skill/Attribute Goes Here cell 2
 Skill/Attribute Goes Here column 1 | Skill/Attribute Goes Here column 2
  
+# PROFESSIONAL EXPERIENCE
+## Company Name, City, ST	Date – Present
+### Quick blurb that brings a view of the business (unless your employers are widely recognized)
+#### Title
+Statement that briefly tell about your work nature-not day to day activities. Keep your target customers, HRs, managers in mind as you overview what you do in each role but it should be meaningful and impress them. It should also directly related to Job Description-it is highly recommended to ‘copy’ and paste them to strategic location of this space here.
+- Bullet point #1 highlighting something you’re particularly proud of and / or that that you believe will be most important to share with your target audience.
+- Bullet point #2 highlighting something you’re particularly proud of and / or that that you believe will be most important to share with your target audience.
+
+## Company Name, City, ST	Date – Present
+### Quick blurb that brings a view of the business (unless your employers are widely recognized)
+#### Title
+Statement that briefly tell about your work nature-not day to day activities. Keep your target customers, HRs, managers in mind as you overview what you do in each role but it should be meaningful and impress them. It should also directly related to Job Description-it is highly recommended to ‘copy’ and paste them to strategic location of this space here.
+- Bullet point #1 highlighting something you’re particularly proud of and / or that that you believe will be most important to share with your target audience.
+- Bullet point #2 highlighting something you’re particularly proud of and / or that that you believe will be most important to share with your target audience.
+
+## Company Name, City, ST	Date – Present
+### Quick blurb that brings a view of the business (unless your employers are widely recognized)
+#### Title
+Statement that briefly tell about your work nature-not day to day activities. Keep your target customers, HRs, managers in mind as you overview what you do in each role but it should be meaningful and impress them. It should also directly related to Job Description-it is highly recommended to ‘copy’ and paste them to strategic location of this space here.
+- Bullet point #1 highlighting something you’re particularly proud of and / or that that you believe will be most important to share with your target audience.
+- Bullet point #2 highlighting something you’re particularly proud of and / or that that you believe will be most important to share with your target audience.
+
 
 
 💬 Ask me about any front end application development using javascript

@@ -8,6 +8,14 @@
 
 [![Etty Fidele](https://github.com/profileCreatorUdemy/profileCreatorUdemy/blob/master/images/etty-fidele-VNYCIbZju0o-unsplash.jpg?raw=true)](https://unsplash.com/photos/VNYCIbZju0o)
 
+# CAREER SUMMARY
+### Insert Job Title 1 • Insert Job Title 2 • Insert Job Title 3
+•	*Established ________ introduces who are professionally* with additional detail that brings your  “strong one liner,” on  **who I am professionally** statement.
+•	*Performed_________ specific strength or experience* that you have that aligns directly with HR and target organisation – or the specific role you applied to.
+•	*Implemented_______ specific strength or experience* that you have that aligns directly with target customers – or the specific role you’re interested.
+•	*Accelerated________ (if you need this) is a great spot* to spell out significant success story of your project or work completion in the past
+
+
 💬 Ask me about any front end application development using javascript
 
 👯 I’m looking to collaborate on open source github projects and available for any open job opportunities within India

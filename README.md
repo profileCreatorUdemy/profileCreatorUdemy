@@ -44,6 +44,18 @@ Statement that briefly tell about your work nature-not day to day activities. Ke
 - Bullet point #1 highlighting something you’re particularly proud of and / or that that you believe will be most important to share with your target audience.
 - Bullet point #2 highlighting something you’re particularly proud of and / or that that you believe will be most important to share with your target audience.
 
+# EDUCATION
+## Name of Degree, Major
+### Name of University, City, ST
+Honors, Activities, Special Projects, etc. can go here
+
+## Name of Degree, Major
+### Name of University, City, ST
+Honors, Activities, Special Projects, etc. can go here
+
+## Name of Degree, Major
+### Name of University, City, ST
+Honors, Activities, Special Projects, etc. can go here
 
 
 💬 Ask me about any front end application development using javascript

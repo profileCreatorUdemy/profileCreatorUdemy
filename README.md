@@ -1,7 +1,7 @@
-# Narayanan Palani
+# FIRST NAME LAST NAME
 ### This is a sample template to create github resume
-##City, State, Post Code | +9090909090
-##yourname@email.com | LinkedIn URL goes here
+## City, State, Post Code | +9090909090
+## yourname@email.com | LinkedIn URL goes here
 
 
 🔭 I’m currently working on software projects
